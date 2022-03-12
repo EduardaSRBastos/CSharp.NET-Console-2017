@@ -1,0 +1,12 @@
+I:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\bin\Debug\Exercicio9.exe.config
+I:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\bin\Debug\Exercicio9.exe
+I:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\bin\Debug\Exercicio9.pdb
+I:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\obj\Debug\Exercicio9.csprojResolveAssemblyReference.cache
+I:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\obj\Debug\Exercicio9.exe
+I:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\obj\Debug\Exercicio9.pdb
+E:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\bin\Debug\Exercicio9.exe.config
+E:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\obj\Debug\Exercicio9.exe
+E:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\obj\Debug\Exercicio9.pdb
+E:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\bin\Debug\Exercicio9.exe
+E:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\bin\Debug\Exercicio9.pdb
+E:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio9\obj\Debug\Exercicio9.csprojResolveAssemblyReference.cache

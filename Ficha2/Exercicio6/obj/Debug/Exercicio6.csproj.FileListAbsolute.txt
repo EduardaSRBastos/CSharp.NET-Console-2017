@@ -1,0 +1,8 @@
+I:\school\11ºAno\TP\Exercícios\Ficha2\Exercicio6\bin\Debug\Exercicio6.exe.config
+I:\school\11ºAno\TP\Exercícios\Ficha2\Exercicio6\bin\Debug\Exercicio6.exe
+I:\school\11ºAno\TP\Exercícios\Ficha2\Exercicio6\bin\Debug\Exercicio6.pdb
+I:\school\11ºAno\TP\Exercícios\Ficha2\Exercicio6\obj\Debug\Exercicio6.exe
+I:\school\11ºAno\TP\Exercícios\Ficha2\Exercicio6\obj\Debug\Exercicio6.pdb
+E:\school\11ºAno\TP\Exercícios\Ficha2\Exercicio6\bin\Debug\Exercicio6.exe.config
+E:\school\11ºAno\TP\Exercícios\Ficha2\Exercicio6\obj\Debug\Exercicio6.exe
+E:\school\11ºAno\TP\Exercícios\Ficha2\Exercicio6\obj\Debug\Exercicio6.pdb

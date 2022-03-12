@@ -1,0 +1,6 @@
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.1\bin\Debug\Ex.1.exe.config
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.1\obj\Debug\Ex.1.csprojResolveAssemblyReference.cache
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.1\bin\Debug\Ex.1.exe
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.1\bin\Debug\Ex.1.pdb
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.1\obj\Debug\Ex.1.exe
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.1\obj\Debug\Ex.1.pdb

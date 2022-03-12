@@ -1,0 +1,5 @@
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.2\bin\Debug\Ex.2.exe.config
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.2\bin\Debug\Ex.2.exe
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.2\bin\Debug\Ex.2.pdb
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.2\obj\Debug\Ex.2.exe
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.2\obj\Debug\Ex.2.pdb

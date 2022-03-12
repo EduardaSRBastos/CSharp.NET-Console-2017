@@ -1,0 +1,6 @@
+I:\school\11ºAno\TP\Exercícios\Ficha4\Exercicio4\bin\Debug\Exercicio4.exe.config
+I:\school\11ºAno\TP\Exercícios\Ficha4\Exercicio4\bin\Debug\Exercicio4.exe
+I:\school\11ºAno\TP\Exercícios\Ficha4\Exercicio4\bin\Debug\Exercicio4.pdb
+I:\school\11ºAno\TP\Exercícios\Ficha4\Exercicio4\obj\Debug\Exercicio4.csprojResolveAssemblyReference.cache
+I:\school\11ºAno\TP\Exercícios\Ficha4\Exercicio4\obj\Debug\Exercicio4.exe
+I:\school\11ºAno\TP\Exercícios\Ficha4\Exercicio4\obj\Debug\Exercicio4.pdb

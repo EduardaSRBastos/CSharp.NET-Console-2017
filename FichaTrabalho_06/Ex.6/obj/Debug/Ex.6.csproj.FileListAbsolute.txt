@@ -1,0 +1,11 @@
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.6\bin\Debug\Ex.6.exe.config
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.6\bin\Debug\Ex.6.exe
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.6\bin\Debug\Ex.6.pdb
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.6\obj\Debug\Ex.6.exe
+H:\11ITM\1º Período\TP\FichaTrabalho_06\Ex.6\obj\Debug\Ex.6.pdb
+E:\school\11ºAno\TP\Exercícios\FichaTrabalho_06\Ex.6\bin\Debug\Ex.6.exe.config
+E:\school\11ºAno\TP\Exercícios\FichaTrabalho_06\Ex.6\obj\Debug\Ex.6.exe
+E:\school\11ºAno\TP\Exercícios\FichaTrabalho_06\Ex.6\obj\Debug\Ex.6.pdb
+I:\school\11ºAno\TP\Exercícios\FichaTrabalho_06\Ex.6\bin\Debug\Ex.6.exe.config
+I:\school\11ºAno\TP\Exercícios\FichaTrabalho_06\Ex.6\obj\Debug\Ex.6.exe
+I:\school\11ºAno\TP\Exercícios\FichaTrabalho_06\Ex.6\obj\Debug\Ex.6.pdb

@@ -1,0 +1,15 @@
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Ficha13\Exercicio1\bin\Debug\Exercicio1.exe.config
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Ficha13\Exercicio1\bin\Debug\Exercicio1.exe
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Ficha13\Exercicio1\bin\Debug\Exercicio1.pdb
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Ficha13\Exercicio1\obj\Debug\Exercicio1.csprojResolveAssemblyReference.cache
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Ficha13\Exercicio1\obj\Debug\Exercicio1.exe
+E:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Ficha13\Exercicio1\obj\Debug\Exercicio1.pdb
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Ficha13\Exercicio1\bin\Debug\Exercicio1.exe.config
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Ficha13\Exercicio1\obj\Debug\Exercicio1.exe
+I:\(☞ﾟヮﾟ)☞ school  ☜(ﾟヮﾟ☜)\11ºAno\TP\Exercícios\Ficha13\Exercicio1\obj\Debug\Exercicio1.pdb
+J:\school\11ºAno\TP\Exercícios\Console\Ficha13\Exercicio1\bin\Debug\Exercicio1.exe.config
+J:\school\11ºAno\TP\Exercícios\Console\Ficha13\Exercicio1\obj\Debug\Exercicio1.exe
+J:\school\11ºAno\TP\Exercícios\Console\Ficha13\Exercicio1\obj\Debug\Exercicio1.pdb
+J:\school\11ºAno\TP\Exercícios\Console\Ficha13\Exercicio1\bin\Debug\Exercicio1.exe
+J:\school\11ºAno\TP\Exercícios\Console\Ficha13\Exercicio1\bin\Debug\Exercicio1.pdb
+J:\school\11ºAno\TP\Exercícios\Console\Ficha13\Exercicio1\obj\Debug\Exercicio1.csprojResolveAssemblyReference.cache

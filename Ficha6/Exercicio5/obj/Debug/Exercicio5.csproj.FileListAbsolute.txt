@@ -1,0 +1,12 @@
+I:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\bin\Debug\Exercicio5.exe.config
+I:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\bin\Debug\Exercicio5.exe
+I:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\bin\Debug\Exercicio5.pdb
+I:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\obj\Debug\Exercicio5.csprojResolveAssemblyReference.cache
+I:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\obj\Debug\Exercicio5.exe
+I:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\obj\Debug\Exercicio5.pdb
+E:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\bin\Debug\Exercicio5.exe.config
+E:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\bin\Debug\Exercicio5.exe
+E:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\bin\Debug\Exercicio5.pdb
+E:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\obj\Debug\Exercicio5.csprojResolveAssemblyReference.cache
+E:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\obj\Debug\Exercicio5.exe
+E:\school\11ºAno\TP\Exercícios\Ficha6\Exercicio5\obj\Debug\Exercicio5.pdb

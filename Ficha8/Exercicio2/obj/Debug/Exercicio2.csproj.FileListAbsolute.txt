@@ -1,0 +1,12 @@
+E:\school\11ºAno\TP\Exercícios\Ficha8\Exercicio2\bin\Debug\Exercicio2.exe.config
+E:\school\11ºAno\TP\Exercícios\Ficha8\Exercicio2\bin\Debug\Exercicio2.exe
+E:\school\11ºAno\TP\Exercícios\Ficha8\Exercicio2\bin\Debug\Exercicio2.pdb
+E:\school\11ºAno\TP\Exercícios\Ficha8\Exercicio2\obj\Debug\Exercicio2.csprojResolveAssemblyReference.cache
+E:\school\11ºAno\TP\Exercícios\Ficha8\Exercicio2\obj\Debug\Exercicio2.exe
+E:\school\11ºAno\TP\Exercícios\Ficha8\Exercicio2\obj\Debug\Exercicio2.pdb
+I:\school\11ºAno\TP\Exercícios\Ficha8\Exercicio2\bin\Debug\Exercicio2.exe.config
+I:\school\11ºAno\TP\Exercícios\Ficha8\Exercicio2\obj\Debug\Exercicio2.exe
+I:\school\11ºAno\TP\Exercícios\Ficha8\Exercicio2\obj\Debug\Exercicio2.pdb
+J:\school\11ºAno\TP\Exercícios\Console\Ficha8\Exercicio2\bin\Debug\Exercicio2.exe.config
+J:\school\11ºAno\TP\Exercícios\Console\Ficha8\Exercicio2\obj\Debug\Exercicio2.exe
+J:\school\11ºAno\TP\Exercícios\Console\Ficha8\Exercicio2\obj\Debug\Exercicio2.pdb

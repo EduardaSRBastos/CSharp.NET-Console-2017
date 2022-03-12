@@ -1,0 +1,5 @@
+I:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio8\bin\Debug\Exercicio8.exe.config
+I:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio8\bin\Debug\Exercicio8.exe
+I:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio8\bin\Debug\Exercicio8.pdb
+I:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio8\obj\Debug\Exercicio8.exe
+I:\school\11ºAno\TP\Exercícios\Ficha1\Exercicio8\obj\Debug\Exercicio8.pdb
